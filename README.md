@@ -4,6 +4,10 @@
 
 [Official Website](https://nodebb.org/)
 
+## Contents
+- [Themes (None-Official)](#themes-none-official)
+- [Plugins](#plugins)
+
 ## Themes (None-Official)
 
 * [cerulean](https://github.com/NodeBB/nodebb-theme-cerulean/)
