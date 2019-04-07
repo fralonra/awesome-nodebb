@@ -69,4 +69,5 @@
 * [shoutbox](https://github.com/Schamper/nodebb-plugin-shoutbox) - NodeBB Shoutbox plugin.
 * [sso-oauth](https://github.com/julianlam/nodebb-plugin-sso-oauth) - NodeBB Plugin that allows users to login/register via any configured OAuth provider.
 * [widget-essentials](https://github.com/NodeBB/nodebb-widget-essentials) - Several basic widgets bundled together in one package including 'HTML', 'Markdown', 'Recent Replies', 'Active Users', and 'Moderators'.
+* [widget-ranking](https://github.com/fralonra/nodebb-widget-ranking) - Nodebb plugin that ranks users by reputation, postcount, topiccount and other values stored in db.
 * [write-api](https://github.com/NodeBB/nodebb-plugin-write-api) - A RESTful JSON-speaking API allowing you to write things to NodeBB.
