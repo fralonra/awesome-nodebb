@@ -68,4 +68,5 @@
 * [session-sharing](https://github.com/julianlam/nodebb-plugin-session-sharing) - Allows login sessions from your app to persist in NodeBB.
 * [shoutbox](https://github.com/Schamper/nodebb-plugin-shoutbox) - NodeBB Shoutbox plugin.
 * [sso-oauth](https://github.com/julianlam/nodebb-plugin-sso-oauth) - NodeBB Plugin that allows users to login/register via any configured OAuth provider.
+* [widget-essentials](https://github.com/NodeBB/nodebb-widget-essentials) - Several basic widgets bundled together in one package including 'HTML', 'Markdown', 'Recent Replies', 'Active Users', and 'Moderators'.
 * [write-api](https://github.com/NodeBB/nodebb-plugin-write-api) - A RESTful JSON-speaking API allowing you to write things to NodeBB.
