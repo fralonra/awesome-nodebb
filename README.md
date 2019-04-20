@@ -11,43 +11,43 @@
 ## Themes (None-Official)
 
 * [cerulean](https://github.com/NodeBB/nodebb-theme-cerulean/)
-![screenshot](https://raw.githubusercontent.com/NodeBB/nodebb-theme-cerulean/master/screenshot.png)
+<img width="480" src="https://raw.githubusercontent.com/NodeBB/nodebb-theme-cerulean/master/screenshot.png" alt="screenshot" />
 
 * [cucina](https://github.com/julianlam/nodebb-theme-cucina)
-![screenshot](https://raw.githubusercontent.com/julianlam/nodebb-theme-cucina/master/screenshots/1.png)
+<img width="480" src="https://raw.githubusercontent.com/julianlam/nodebb-theme-cucina/master/screenshots/1.png" alt="screenshot" />
 
 * [halloween](https://github.com/barisusakli/nodebb-theme-halloween)
-![screenshot](https://raw.githubusercontent.com/barisusakli/nodebb-theme-halloween/master/assets/preview.png)
+<img width="480" src="https://raw.githubusercontent.com/barisusakli/nodebb-theme-halloween/master/assets/preview.png" alt="screenshot" />
 
 * [ironbane](https://github.com/ironbane/nodebb-theme-ironbane)
-![screenshot](https://raw.githubusercontent.com/ironbane/nodebb-theme-ironbane/master/screenshot.png)
+<img width="480" src="https://raw.githubusercontent.com/ironbane/nodebb-theme-ironbane/master/screenshot.png" alt="screenshot" />
 
 * [material](https://github.com/pichalite/nodebb-theme-material)
-![screenshot](https://raw.githubusercontent.com/pichalite/nodebb-theme-material/master/screenshot.png)
+<img width="480" src="https://raw.githubusercontent.com/pichalite/nodebb-theme-material/master/screenshot.png" alt="screenshot" />
 
 * [metrolike](https://github.com/psychobunny/nodebb-theme-metrolike)
-![screenshot](https://camo.githubusercontent.com/20fc0800dbbd881a68ee04eb6352f95192c26e9c/687474703a2f2f692e696d6775722e636f6d2f6d3444777149702e706e67)
+<img width="480" src="https://camo.githubusercontent.com/20fc0800dbbd881a68ee04eb6352f95192c26e9c/687474703a2f2f692e696d6775722e636f6d2f6d3444777149702e706e67" alt="screenshot" />
 
 * [oxide](https://github.com/youhosi/nodebb-theme-oxide)
-![screenshot](https://raw.githubusercontent.com/youhosi/nodebb-theme-oxide/master/img/screenshot.png)
+<img width="480" src="https://raw.githubusercontent.com/youhosi/nodebb-theme-oxide/master/img/screenshot.png" alt="screenshot" />
 
 * [pewter](https://github.com/psychobunny/nodebb-theme-pewter)
-![screenshot](https://camo.githubusercontent.com/82f1a5abc8278442ecce4daf9919ad9ea4b9e85d/687474703a2f2f692e696d6775722e636f6d2f37454447564c6e2e706e67)
+<img width="480" src="https://camo.githubusercontent.com/82f1a5abc8278442ecce4daf9919ad9ea4b9e85d/687474703a2f2f692e696d6775722e636f6d2f37454447564c6e2e706e67" alt="screenshot" />
 
 * [qingcloud](https://github.com/imdonkey/nodebb-theme-qingcloud)
-![screenshot](https://raw.githubusercontent.com/imdonkey/nodebb-theme-qingcloud/master/screenshot.png)
+<img width="480" src="https://raw.githubusercontent.com/imdonkey/nodebb-theme-qingcloud/master/screenshot.png" alt="screenshot" />
 
 * [rocket](https://github.com/NodeBB/nodebb-theme-rocket)
-![screenshot](https://camo.githubusercontent.com/42773e46d32aacba90da2866a128be6d279a274e/687474703a2f2f692e696d6775722e636f6d2f504d67763874442e706e67)
+<img width="480" src="https://camo.githubusercontent.com/42773e46d32aacba90da2866a128be6d279a274e/687474703a2f2f692e696d6775722e636f6d2f504d67763874442e706e67" alt="screenshot" />
 
 * [slick](https://github.com/pichalite/nodebb-theme-slick)
-![screenshot](https://raw.githubusercontent.com/pichalite/nodebb-theme-slick/master/screenshot.png)
+<img width="480" src="https://raw.githubusercontent.com/pichalite/nodebb-theme-slick/master/screenshot.png" alt="screenshot" />
 
 * [tron](https://github.com/Paaltomo/nodebb-theme-tron)
-![screenshot](https://raw.githubusercontent.com/Paaltomo/nodebb-theme-tron/master/screenshot.png)
+<img width="480" src="https://raw.githubusercontent.com/Paaltomo/nodebb-theme-tron/master/screenshot.png" alt="screenshot" />
 
 * [v2mm](https://github.com/revir/nodebb-theme-v2mm)
-![screenshot](https://raw.githubusercontent.com/revir/nodebb-theme-v2mm/master/screenshot.png)
+<img width="480" src="https://raw.githubusercontent.com/revir/nodebb-theme-v2mm/master/screenshot.png" alt="screenshot" />
 
 ## Plugins
 
