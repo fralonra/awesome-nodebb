@@ -53,6 +53,7 @@
 
 * [blog-comments](https://github.com/psychobunny/nodebb-plugin-blog-comments) - Lets NodeBB act as a comments engine/widget for your blog.
 * [calendar](https://github.com/pitaj/nodebb-plugin-calendar) - Fully-featured calendar plugin for NodeBB.
+* [composer-quill](https://github.com/NodeBB/nodebb-plugin-composer-quill) - WYSIWYG composer for NodeBB based off of Quill.
 * [composer-redactor](https://github.com/NodeBB-Community/nodebb-plugin-composer-redactor) - Redactor Composer for NodeBB.
 * [desktop-notifications](https://github.com/psychobunny/nodebb-plugin-desktop-notifications) - This NodeBB plugin uses the HTML5 Notifications API to display desktop alerts upon new incoming notifications.
 * [emoji](https://github.com/NodeBB/nodebb-plugin-emoji) - NodeBB Plugin enabling emoji as seen on http://www.emoji-cheat-sheet.com.
